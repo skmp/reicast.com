@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "New site, minimal design!"
+date:   2018-03-20 12:00:00 +0100
+categories: site
+---
+
+Out with the old, in with the new.
+
+Switching over to github + jekyll setup that is easier to maintain.
+
+Suprisigly, there's also some activity in the project. We'll try to get the listing back up in google play. *No promises or anything though ;)*
+
+Cheers,
+~skmp
