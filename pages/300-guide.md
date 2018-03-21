@@ -2,7 +2,7 @@
 layout: page
 title: User guide
 menu: nav
-permalink: /getting-started/
+permalink: /guide/
 ---
 
 [Getting started videos](https://www.youtube.com/results?search_query=Setting+up+reicast+android)
