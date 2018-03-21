@@ -1,6 +1,7 @@
 ---
 layout: page
 title: User guide
+menu: nav
 permalink: /getting-started/
 ---
 

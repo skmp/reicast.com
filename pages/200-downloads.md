@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Downloads
+menu: nav
 permalink: /downloads/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contributing
+menu: nav
 permalink: /contributing/
 ---
 
