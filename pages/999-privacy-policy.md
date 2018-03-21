@@ -4,7 +4,7 @@ title: Privacy policy
 permalink: /privacy-policy/
 ---
 
-We use Google stats, Google might track you.
+We use Google Analytics, Google might track you.
 
 Android App
 ---
