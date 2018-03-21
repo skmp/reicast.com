@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User guide
+title: User Guide
 menu: nav
 permalink: /guide/
 ---
@@ -8,7 +8,7 @@ permalink: /guide/
 [Getting started videos](https://www.youtube.com/results?search_query=Setting+up+reicast+android)
 ---
 
-There are a lot of video tutorials on youtube, by many nice people. [Watch one of them!](https://www.youtube.com/results?search_query=Setting+up+reicast+android). *Keep in mind these are not officially endorsed by the reicast team*
+There are a lot of video tutorials on youtube. [Watch one of them!](https://www.youtube.com/results?search_query=Setting+up+reicast+android). *Keep in mind these are not official videos and are not done by the reicast team*
 
 BIOS Setup
 ---
