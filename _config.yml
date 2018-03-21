@@ -12,8 +12,10 @@ description: >
   Reicast is a portable dreamcast emulator
 baseurl: ""
 url: "http://reicast.com"
-twitter_username: reicastdc
 github_username:  reicast
+facebook_username: reicastdc
+twitter_username: reicastdc
+
 
 # Build settings
 markdown: kramdown
