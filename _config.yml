@@ -11,7 +11,7 @@ email: team@reicast.com
 description: >
   Reicast is a portable dreamcast emulator
 baseurl: ""
-url: "http://reicast.github.io"
+url: "https://reicast.github.io"
 twitter_username: reicastdc
 github_username:  reicast
 
