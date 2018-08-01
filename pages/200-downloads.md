@@ -5,20 +5,26 @@ menu: nav
 permalink: /downloads/
 ---
 
-Official release
+Beta release (updated daily, somewhat stable)
 ---
-[Play Store](https://play.google.com/store/apps/details?id=com.reicast.emulator)
+- [Beta Support Portal](http://beta.reicast.com)
+- [Play Store](http://enroll.reicast.com)
+- [Snap Store](https://snapcraft.io/reicast) or `$> sudo snap install reicast --edge`
 
-
-Development builds (newer, untested)
+Stable Release (not up to date anymore)
 ---
-[reicast ci builds](http://builds.reicast.com/)
+- [Play Store](https://play.google.com/store/apps/details?id=com.reicast.emulator)
 
 
-3rd party builds
+Development Builds (Work in progress, highly unstable)
 ---
-[OpenPandora, by ptitseb](http://repo.openpandora.org/?page=detail&app=reicast_ptitseb)
+- [reicast ci builds](http://builds.reicast.com/)
 
-[OUYA](https://www.ouya.tv/game/reicast/)
 
-[Ubuntu PPA](https://code.launchpad.net/~random-stuff/+archive/ubuntu/ppa)
+3rd party Builds
+---
+- [OpenPandora, by ptitseb](http://repo.openpandora.org/?page=detail&app=reicast_ptitseb)
+- [OUYA](https://www.ouya.tv/game/reicast/)
+- [Ubuntu PPA](https://code.launchpad.net/~random-stuff/+archive/ubuntu/ppa)
+- [retroarch](http://www.retroarch.com/?page=platforms)
+- [libretro-reicast](http://buildbot.libretro.com/) (buildbot)
