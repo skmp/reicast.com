@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Reicast r8.1 released"
+date:   2018-09-12 12:00:00 +0000
+categories: news
+---
+
+We've been very busy the past months, silently pushing r7, opening the public beta program, and a lot of work in both the android and core parts of the emulator.
+
+Reicast r8.1 released
+---
+Working towards the goal of doing a stable release per month, r8.1 got promoted today from beta to production!
+
+For more details see, https://github.com/reicast/reicast-emulator/releases/tag/r8.1
+
+
+Publishing progress reports
+---
+I've been really short on time, so I guess ... that's all for now? Will try to keep everyone more updated over Autumn :)
+
+Enjoy,
+~skmp
