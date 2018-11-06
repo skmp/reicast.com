@@ -13,7 +13,6 @@ Versioning [#1396](https://github.com/reicast/reicast-emulator/pull/1396)
 We unified the display of the version for Android, Linux and Windows targets.
 Using Android the version is displayed in the about dialog (see screenshot) using Windows and Linux there is the new command line switch ``-version``.
 ![Android version](/_images/2018-11_1396_version.png "Android version")
-[add screenshot]
 
 Emulation
 ---
