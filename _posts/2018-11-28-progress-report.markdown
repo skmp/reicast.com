@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Progress report September and October"
-date:   2018-11-xx xx:xx:xx +0100
+date:   2018-11-28 21:00:00 +0100
 categories: news
 ---
 
