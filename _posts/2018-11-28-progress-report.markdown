@@ -12,7 +12,7 @@ Versioning [#1396](https://github.com/reicast/reicast-emulator/pull/1396)
 ---
 We unified the display of the version for Android, Linux and Windows targets.
 Using Android the version is displayed in the about dialog (see screenshot) using Windows and Linux there is the new command line switch ``-version``.
-![Android version](/_images/2018-11_1396_version.png "Android version")
+![Android version](/assets/img/2018-11_1396_version.png "Android version")
 
 Emulation
 ---
@@ -27,7 +27,7 @@ Thanks to [@flyinghead](https://github.com/flyinghead) we fixed many emulation r
 Android
 ---
 [@AbandonedCart](https://github.com/AbandonedCart) implemented theming into the Android GUI. ([#1407](https://github.com/reicast/reicast-emulator/pull/1407), [#1413](https://github.com/reicast/reicast-emulator/pull/1413), [#1415](https://github.com/reicast/reicast-emulator/pull/1415), [#1416](https://github.com/reicast/reicast-emulator/pull/1416), [#1418](https://github.com/reicast/reicast-emulator/pull/1418), [#1419](https://github.com/reicast/reicast-emulator/pull/1419) and more)
-![Android theming](/_images/2018-11_1407_theming.png "Android theming")
+![Android theming](/assets/img/2018-11_1407_theming.png "Android theming")
 He also updated the Dropbox API from 1.6 to 3.0 which should fix the Dropbox Cloud-VMU support. ([#1425](https://github.com/reicast/reicast-emulator/pull/1425))
 
 Linux
