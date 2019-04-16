@@ -5,14 +5,16 @@ menu: nav
 permalink: /downloads/
 ---
 
-Beta release (somewhat stable, updated daily)
+Beta releases (somewhat stable, updated daily)
 ---
-- [Beta Support Portal](http://beta.reicast.com)
+- [CI Builds master](http://builds.reicast.com#master)
 - [Play Store](http://enroll.reicast.com)
 - [Snap Store](https://snapcraft.io/reicast) or `$> sudo snap install reicast --edge`
+- [Beta Support Portal](http://beta.reicast.com)
 
-Stable Release (stable, not up to date)
+Stable Releases (stable, not always up to date)
 ---
+- [Github Releases](https://github.com/reicast/reicast-emulator/releases)
 - [Play Store](https://play.google.com/store/apps/details?id=com.reicast.emulator)
 
 
