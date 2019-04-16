@@ -9,7 +9,7 @@ We've been made aware that there's been some BS going around, mostly spread by T
 
 I'd like to personaly falsify such reports, as a core developer of both nullDC and Reicast, and as the current maintainer of reicast.
 
-Such rumors and other BS is just personal beef that TA has against some projects when they don't follow up his guidelines on what is acceptable or not.
+Such rumors and other BS is just personal beef that TA has against some projects when they don't follow up his guidelines on what is acceptable or not. Sorry TA, you don't speak for everybody.
 
 
 So.
@@ -18,7 +18,7 @@ To make it clear.
 
 We love redream.
 
-We think every developer has full rights to run his project as he sees fit.
+We think every developer has full rights to run his project as she/he/they see fit.
 
 We think that friendly competition and collaboration is fun.
 
