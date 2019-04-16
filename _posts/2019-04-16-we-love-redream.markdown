@@ -20,7 +20,7 @@ We love redream.
 
 We think every developer has full rights to run his project as he sees fit.
 
-We think that friendly competition and colaboration is fun.
+We think that friendly competition and collaboration is fun.
 
 We want to see BSing stopped.
 
