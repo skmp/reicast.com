@@ -21,7 +21,7 @@ I also think that there's no reason to suspect me of any wrongdoing, as I've bee
 
 I hope you can all see how ridiculous and delusional such statements are, and we can stop all this BS that's going on.
 
-If you have too much free time, how about you help us build a solid, healthy, and sustainable emulator scene/community, instead of being poisonous/trolling?
+If you have too much free time, how about you do your part towards a solid, healthy, and sustainable emulator scene/community, instead of being poisonous/trolling/idling/isolated?
 
 Take care everyone and good night,
 ~skmp (aka, drk||Raziel)
