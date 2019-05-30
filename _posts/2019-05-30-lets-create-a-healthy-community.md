@@ -4,7 +4,7 @@ title:  "Let's aim for a healthier emudev community. We don't trust TwinAphex to
 date:   2019-05-30 0:13:37 +0100
 categories: psa emudrama
 ---
-TL;DR version:
+TL;DR version
 
 TwinAphex, a person some people refer to as "the dictator of libretro" loves to mess, fork and take over projects and is suspected of running smudge campaigns against people he doesn't like.
 
@@ -23,7 +23,7 @@ We prefer democracies
 
 Dear Internet,
 
-To make things abundantly clear, I have only used my CLA powers to re-license Reicast's source code so far only to flyinghead*, a libretro dev, and I am not secretly sharing code with inolen. 
+To make things abundantly clear, I have only used my CLA powers to re-license Reicast's source code so far only to flyinghead**, a libretro dev, and I am not secretly sharing code with inolen. 
 
 Reicast is open source, any code posted there can be seen by anyone. There's no need for me to do that.
 
@@ -43,4 +43,4 @@ Take care everyone and good night,
 
 ~skmp (aka, drk||Raziel)
 
-* I forgot about this yesterday, I did it to show my support and respect towards flyinghead while the drama was escalating. I do trust him to be ethical.
+** I forgot about this yesterday, I did it to show my support and respect towards flyinghead while the drama was escalating, in a futile effort to de-escalate and restore trust. I do trust him to be ethical. See [beetle-dc#r33694886](https://github.com/libretro/beetle-dc/commit/9d0847c33bfa460621ea3311e416b25a300f062d#r33694886)
