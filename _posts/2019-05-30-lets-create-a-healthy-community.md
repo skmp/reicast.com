@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's aim for a healthier community"
+title:  "Let's aim for a healthier emudev community"
 date:   2019-05-30 0:13:37 +0100
 categories: psa emudrama
 ---
