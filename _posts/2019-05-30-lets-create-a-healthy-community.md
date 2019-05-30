@@ -4,6 +4,21 @@ title:  "Let's aim for a healthier community"
 date:   2019-05-30 0:13:37 +0100
 categories: psa emudrama
 ---
+TL;DR version:
+
+TwinAphex, a person some people refer to as "the dictator of libretro" loves to mess and take over project, is suspected of running smudge campaigns against people he doesn't like.
+
+He is generally highly poisonous both to his projects (libretro/retroarch) and others (reicast one of them, dolpin another, etc). He often censors/edits his comments, and then blames other for the drama that comes..
+
+Some recent developments triggered this wave of drama.
+
+We want him to stop messing around, and publicly apologize for the damage he has done, so we can carry on making good emulators.
+
+While the libretro and retroarch projects are very promissing, he has completely lost our trust to run them.
+
+We prefer democracies
+
+---
 
 Dear Internet,
 
