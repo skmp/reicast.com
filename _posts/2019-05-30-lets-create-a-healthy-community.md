@@ -21,7 +21,7 @@ We prefer democracies.
 
 *addendum*
 
-It is my personal opinion that TwinAphex should take some vacations to chill and figure things out. There are many capable libretro team members he can trust the libretro project to. Seeing a therapist helped me in my recovery a lot when I was last burned out. Everyone can get burned out.
+It is my personal opinion that TwinAphex should take some vacations to chill and figure things out. There are many capable libretro team members he can trust the libretro project to. Seeing a therapist helped me in my recovery a lot when I was last burned out. Anyone can get burned out.
 
 ---
 
