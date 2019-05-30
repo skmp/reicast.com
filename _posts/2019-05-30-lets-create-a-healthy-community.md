@@ -23,7 +23,7 @@ We prefer democracies
 
 Dear Internet,
 
-To make things abundantly clear, I have only used my CLA powers to re-license Reicast's source code so far only to flyinghead**, a libretro dev, and I am not secretly sharing code with inolen. 
+To make things abundantly clear, I have used my CLA powers only once, last weekend, to re-license Reicast's source code to flyinghead**, a libretro dev, in a futile attempt to de-escalate this after he forked reicast. I am not secretly sharing code with inolen. 
 
 Reicast is open source, any code posted there can be seen by anyone. There's no need for me to do that.
 
