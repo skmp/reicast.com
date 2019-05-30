@@ -8,7 +8,7 @@ TL;DR version:
 
 TwinAphex, a person some people refer to as "the dictator of libretro" loves to mess, fork and take over projects and is suspected of running smudge campaigns against people he doesn't like.
 
-He is generally highly poisonous both to his projects (libretro/retroarch) and others (reicast one of them, dolpin another, etc). Some libretro devs have already been banned from the libretro discord for speaking their mind openly. He often censors/edits his comments, and then blames others for the drama that comes...
+He is generally highly poisonous both to his projects (libretro/retroarch) and others (reicast one of them, dolphin another, etc). Some libretro devs have already been banned from the libretro discord for speaking their mind openly. He often censors/edits his comments, and then blames others for the drama that comes...
 (For reference see from earlier today: https://pastebin.com/WrhzTRHi)
 
 Some recent developments triggered this wave of drama.
