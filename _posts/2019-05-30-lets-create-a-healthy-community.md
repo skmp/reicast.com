@@ -6,7 +6,7 @@ categories: psa emudrama
 ---
 TL;DR version:
 
-TwinAphex, a person some people refer to as "the dictator of libretro" loves to mess and take over project, is suspected of running smudge campaigns against people he doesn't like.
+TwinAphex, a person some people refer to as "the dictator of libretro" loves to mess, fork and take over projects and is suspected of running smudge campaigns against people he doesn't like.
 
 He is generally highly poisonous both to his projects (libretro/retroarch) and others (reicast one of them, dolpin another, etc). He often censors/edits his comments, and then blames other for the drama that comes..
 
